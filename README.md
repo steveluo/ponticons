@@ -1,6 +1,13 @@
+Ponticons is the icon font for PMEase. Most of the icons are based on below famous icon set:
+
+* [Octicons] (https://github.com/github/octicons)
+* [Fontawesome] (http://fontawesome.io)
+* [Fontello] (http://fontello.com)
+* [Ionicons] (http://ionicons.com)
+
 # Add Icons 
 
-Add svg file to src directory, then update builder/manifest.json.
+Add svg file to src directory, then update `builder/manifest.json`.
 
 ## Build Instructions
 
@@ -23,7 +30,6 @@ This repo already comes with all the files built and ready to go, but can also b
 5) Run the build command:
 
     python ./builder/generate.py
-
 
 ## License
 
