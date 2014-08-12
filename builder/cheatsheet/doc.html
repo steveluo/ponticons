@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>{{font_name}} v{{font_version}} Cheatsheet</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+
+#topbar { background: #f2f2f2; height: 45px; border-bottom: 1px solid #ddd; }
+#topbar h1 { margin: 0; color: #999; }
+
+#sizes { margin: 8px 0 0 30px; }
+#meta small { color: #999; line-height: 50px; }
+
+#main { padding-top: 80px; }
+
+#pagehead { margin: 20px 0; }
+
+.icon-list {
+    list-style-type: none;
+    padding-left: 0px;
+    overflow: hidden;
+}
+
+.icon-list li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
+  background-color: #fff;
+  width: 128px; height: 128px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px; 
+}
+
+.icon-list-item a {
+  display: block;
+  text-align: center;
+  color: #333;
+  outline: none;
+  position: relative;
+  overflow: hidden;
+}
+.icon-list a:hover, .icon-list a.zeroclipboard-is-hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+}
+
+.icon-list li:hover { background: #333; }
+.icon-list li:hover > a > .fa { color: white; }
+.size-1x .icon-list-item > a > .fa { font-size: 16px; }
+.size-2x .icon-list-item > a > .fa { font-size: 32px; }
+.size-3x .icon-list-item > a > .fa { font-size: 48px; }
+.size-4x .icon-list-item > a > .fa { font-size: 64px; }
+
+.icon-list-item > a > b { display: block; color: #999; font-size: 11px; margin-top: 5px; text-overflow: ellipse; }
+
+#sidebar a { display: block; padding: 4px 20px; font-size: 13px; font-weight: 500; color: #999; }
+#affix-nav li.active > a { color: #08f; }
+    </style>
+	<link rel="stylesheet" href="css/ponticons.css" type="text/css" charset="utf-8" />
+</head>
+<body data-spy="scroll">
+    <header class="navbar navbar-fixed-top bs-docs-nav" id="topbar" role="banner">
+      <div class="container">
+        <h1 class="pull-left">{{font_name}}</h1>
+        <div id="sizes" class="pull-left">
+            <span class="btn-group">
+                <a class="btn btn-default" data-size="1x">1X</a>
+                <a class="btn btn-default" data-size="2x">2X</a>
+                <a class="btn btn-default" data-size="3x">3X</a>
+                <a class="btn btn-success" data-size="4x">4X</a>
+            </span>
+        </div>
+        <div id="meta" class="pull-right">
+            <small>version: {{font_version}} | {{icon_count}} icons</small>
+        </div>
+      </div>
+    </header>
+
+    <div id="main" class="container" >
+        <a id="top"></a>
+        <div class="row" data-target="#affix-nav" >
+            <div class="col-md-9">
+                <div id="content" class="size-4x">
+                    {{content}}
+                </div>
+            </div>
+            <div id="sidebar" class="col-md-3">
+                <div id="affix-nav" class="bs-docs-sidebar hidden-print hidden-xs hidden-sm" data-spy="affix" data-offset-top="60" role="complementary">
+                    <ul class="nav bs-docs-sidenav">
+                        {{page_navs}}
+                    </ul>
+
+                    <a class="back-to-top" href="#top">
+                      Back to top
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.1.min.js" type="text/javascript" charset="utf-8"></script>	
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+
+	<script type="text/javascript" charset="utf-8">
+        $(document).ready(function() {
+            $('#sizes .btn').click(function() {
+                var $self = $(this);
+                $('.btn-success').removeClass('btn-success').addClass('btn-default')
+                $self.removeClass('btn-default').addClass('btn-success')
+                $('#content').removeClass().addClass('size-' + $self.data('size'))
+            })
+        })
+    </script>
+</body>
+</html>
