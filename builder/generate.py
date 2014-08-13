@@ -21,6 +21,7 @@ def main():
   generate_less(data)
 #  generate_cheatsheet(data)
   generate_html(data)
+  generate_font_names(data)
 #  generate_component_json(data)
 #  generate_composer_json(data)
 #  generate_bower_json(data)
@@ -225,6 +226,18 @@ def generate_html(data):
   f.write(template_html)
   f.close()
 
+def generate_font_names(data):
+  print "Generate font names file"
+
+  names_file_path = os.path.join(ROOT_PATH, 'font-names.txt')
+
+  f = open(names_file_path, 'w')
+
+  for icon in data['icons']:
+    f.write(icon['name'])
+    f.write('\n')
+
+  f.close()
 
 def generate_cheatsheet(data):
   print "Generate Cheatsheet"
