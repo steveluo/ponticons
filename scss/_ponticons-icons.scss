@@ -259,7 +259,10 @@
 .#{$ponticons-prefix}branch-lock:before { content: $ponticon-var-branch-lock; }
 .#{$ponticons-prefix}branch-merge:before { content: $ponticon-var-branch-merge; }
 .#{$ponticons-prefix}branch-compare:before { content: $ponticon-var-branch-compare; }
+.#{$ponticons-prefix}pull-request-add:before { content: $ponticon-var-pull-request-add; }
 .#{$ponticons-prefix}pull-request-reject:before { content: $ponticon-var-pull-request-reject; }
+.#{$ponticons-prefix}pull-request-accept:before { content: $ponticon-var-pull-request-accept; }
+.#{$ponticons-prefix}pull-request-close:before { content: $ponticon-var-pull-request-close; }
 .#{$ponticons-prefix}bug:before { content: $ponticon-var-bug; }
 .#{$ponticons-prefix}checklist:before { content: $ponticon-var-checklist; }
 .#{$ponticons-prefix}issue-opened:before { content: $ponticon-var-issue-opened; }

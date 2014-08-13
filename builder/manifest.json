@@ -1,7 +1,7 @@
 {
   "build_hash": "abd82b8933487a1bef979631a74d78df",
   "prefix": "fa-",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "ponticons",
   "groups": [
     {
@@ -1097,7 +1097,19 @@
         },
         {
           "code": "0xf528",
+          "name": "pull-request-add"
+        },
+        {
+          "code": "0xf529",
           "name": "pull-request-reject"
+        },
+        {
+          "code": "0xf52a",
+          "name": "pull-request-accept"
+        },
+        {
+          "code": "0xf52b",
+          "name": "pull-request-close"
         }
       ]
     },

@@ -1,10 +1,10 @@
 /*!
-  Ionicons, v1.0.0
+  Ionicons, v1.0.1
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
   https://twitter.com/benjsperry  https://twitter.com/ionicframework
   MIT License: https://github.com/driftyco/ionicons
 */
-@font-face { font-family: "ponticons"; src: url("../fonts/ponticons.eot?v=1.0.0"); src: url("../fonts/ponticons.eot?v=1.0.0#iefix") format("embedded-opentype"), url("../fonts/ponticons.ttf?v=1.0.0") format("truetype"), url("../fonts/ponticons.woff?v=1.0.0") format("woff"), url("../fonts/ponticons.svg?v=1.0.0#ponticons") format("svg"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "ponticons"; src: url("../fonts/ponticons.eot?v=1.0.1"); src: url("../fonts/ponticons.eot?v=1.0.1#iefix") format("embedded-opentype"), url("../fonts/ponticons.ttf?v=1.0.1") format("truetype"), url("../fonts/ponticons.woff?v=1.0.1") format("woff"), url("../fonts/ponticons.svg?v=1.0.1#ponticons") format("svg"); font-weight: normal; font-style: normal; }
 .fa { font: normal normal 16px "ponticons"; display: inline-block; speak: none; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
 
 /* makes the font 33% larger relative to the icon container */
@@ -584,7 +584,13 @@
 
 .fa-branch-compare:before { content: "\f527"; }
 
-.fa-pull-request-reject:before { content: "\f528"; }
+.fa-pull-request-add:before { content: "\f528"; }
+
+.fa-pull-request-reject:before { content: "\f529"; }
+
+.fa-pull-request-accept:before { content: "\f52a"; }
+
+.fa-pull-request-close:before { content: "\f52b"; }
 
 .fa-bug:before { content: "\f550"; }
 

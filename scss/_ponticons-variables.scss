@@ -3,7 +3,7 @@
 
 $ponticons-font-path: "../fonts" !default;
 $ponticons-font-family: "ponticons" !default;
-$ponticons-version: "1.0.0" !default;
+$ponticons-version: "1.0.1" !default;
 $ponticons-prefix: fa- !default;
 
 $ponticon-var-logo-gitplex: "\f000";
@@ -264,7 +264,10 @@ $ponticon-var-branch-pattern: "\f524";
 $ponticon-var-branch-lock: "\f525";
 $ponticon-var-branch-merge: "\f526";
 $ponticon-var-branch-compare: "\f527";
-$ponticon-var-pull-request-reject: "\f528";
+$ponticon-var-pull-request-add: "\f528";
+$ponticon-var-pull-request-reject: "\f529";
+$ponticon-var-pull-request-accept: "\f52a";
+$ponticon-var-pull-request-close: "\f52b";
 $ponticon-var-bug: "\f550";
 $ponticon-var-checklist: "\f551";
 $ponticon-var-issue-opened: "\f552";
