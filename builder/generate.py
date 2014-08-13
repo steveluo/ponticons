@@ -59,10 +59,9 @@ def generate_less(data):
 
   d = []
   d.append('/*!');
-  d.append('Ionicons, v%s' % (font_version) );
+  d.append('Ponticons, v%s' % (font_version) );
   d.append('Created PontIcons based on the work by Ben Sperry for the Ionic Framework, http://ionicons.com/');
-  d.append('https://twitter.com/benjsperry  https://twitter.com/ionicframework');
-  d.append('MIT License: https://github.com/driftyco/ionicons');
+  d.append('MIT License: https://github.com/steveluo/ponticons');
   d.append('*/');
   d.append('// PontIcons Variables')
   d.append('// --------------------------\n')
