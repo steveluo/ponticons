@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2014-8-14: Created.
+2014-8-15: Created.
 -->
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Thu Aug 14 22:36:32 2014
- By GG
-Created by GG with FontForge 2.0 (http://fontforge.sf.net)
+Created by FontForge 20120731 at Fri Aug 15 01:26:19 2014
+ By glyph
+Created by glyph with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
 <defs>
 <font id="ponticons" horiz-adv-x="1024" >
@@ -768,8 +768,8 @@ d="M704 63h128v-128h-128v128zM896 255v-128h-256v128h256zM832 319h-128v384h128v-3
     <glyph glyph-name="fa-share-alt" unicode="&#xf435;" horiz-adv-x="704" 
 d="M476 463l-221 -106c0 -10 -3 -20 -6 -25l189 -131c15 12 45 25 74 25c71 0 128 -57 128 -128s-57 -128 -128 -128s-128 57 -128 128c0 11 1 18 4 28l-182 129c-22 -21 -47 -29 -78 -29c-71 0 -128 57 -128 128s57 128 128 128c38 0 71 -16 95 -42l224 106
 c0 71 58 124 129 124s128 -57 128 -128s-57 -128 -128 -128c-40 0 -76 20 -100 49z" />
-    <glyph glyph-name="fa-share" unicode="&#xf434;" horiz-adv-x="768" 
-d="M512 384c-168 0 -233 -49 -320 -192c0 0 10 328 320 328v120l256 -193l-256 -191v128zM576 63v128l64 64v-223c0 -19 -14 -33 -33 -33h-574c-19 0 -33 14 -33 33v446c0 19 14 33 33 33h223l-64 -64h-128v-384h512z" />
+    <glyph glyph-name="fa-share" unicode="&#xf434;" horiz-adv-x="960" 
+d="M640 399c-210 0 -291 -59 -400 -235c0 0 12 402 400 402v147l320 -237l-320 -234v157zM720 5v157l80 79v-274c0 -23 -17 -40 -41 -40h-718c-24 0 -41 17 -41 40v548c0 23 17 40 41 40h279l-80 -79h-160v-471h640z" />
     <glyph glyph-name="fa-shutdown" unicode="&#xf417;" 
 d="M150 682l103 -103c-33 -33 -60 -73 -78 -116c-18 -44 -29 -92 -29 -143c0 -101 40 -192 107 -259s158 -107 259 -107s192 40 259 107s107 158 107 259c0 51 -10 99 -28 143c-18 43 -46 83 -79 116l103 103c47 -47 84 -102 110 -163s40 -128 40 -199
 c0 -141 -57 -270 -149 -362c-93 -93 -222 -150 -363 -150s-270 57 -362 150c-93 92 -150 221 -150 362c0 71 15 138 41 199s62 116 109 163zM439 832h146v-592h-146v592z" />
