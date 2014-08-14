@@ -2,7 +2,9 @@
 <!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="896px" height="1024px" viewBox="0 0 896 1024" enable-background="new 0 0 896 1024" xml:space="preserve">
-<path d="M192,480l128,96l-128,96l64,96l128-96v160h128V672l128,96l64-96l-128-96l128-96l-64-96l-128,96V320H384v160l-128-96L192,480
-	z M64,64v896h768V320L640,64H64z M896,1024H0V0h672l224,288V1024z"/>
+	 width="768px" height="1024px" viewBox="0 0 768 1024" enable-background="new 0 0 768 1024" xml:space="preserve">
+<path d="M164,507l89,52l-89,51c-21,12-28,39-16,59l21,37c12,21,39,28,59,16l89-52v104c0,23,20,43,44,43h43c23,0,43-20,43-43V670
+	l89,52c20,12,47,5,59-16l21-37c12-20,5-47-15-59l-90-51l90-52c20-12,27-39,15-59l-21-37c-12-21-39-28-59-16l-89,52V343
+	c0-23-20-43-43-43h-43c-24,0-44,20-44,43v104l-89-52c-20-12-47-5-59,16l-21,37C136,468,143,495,164,507z M768,256L576,64H0v896h768
+	V256z M704,320v576H64V128h448L704,320z"/>
 </svg>

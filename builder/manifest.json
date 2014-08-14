@@ -1,7 +1,7 @@
 {
-  "build_hash": "abd82b8933487a1bef979631a74d78df",
+  "build_hash": "bf6590e907514fe1011d693627563e06",
   "prefix": "fa-",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "name": "ponticons",
   "groups": [
     {
@@ -417,6 +417,10 @@
         {
           "code": "0xf263",
           "name": "triangle-right"
+        },
+        {
+          "code": "0xf264",
+          "name": "arrow-back"
         }
       ]
     },
@@ -770,16 +774,8 @@
           "name": "expand"
         },
         {
-          "code": "0xf42c",
-          "name": "expand-alt"
-        },
-        {
           "code": "0xf42d",
           "name": "collapse"
-        },
-        {
-          "code": "0xf42e",
-          "name": "collapse-alt"
         },
         {
           "code": "0xf42f",
@@ -804,6 +800,10 @@
         {
           "code": "0xf434",
           "name": "share"
+        },
+        {
+          "code": "0xf435",
+          "name": "share-alt"
         }
       ]
     },
@@ -825,10 +825,6 @@
           "name": "file-binary"
         },
         {
-          "code": "0xf454",
-          "name": "file-chart"
-        },
-        {
           "code": "0xf455",
           "name": "file-code"
         },
@@ -842,11 +838,11 @@
         },
         {
           "code": "0xf458",
-          "name": "file-link"
+          "name": "file-symlink"
         },
         {
           "code": "0xf459",
-          "name": "file-openoffice"
+          "name": "file-media"
         },
         {
           "code": "0xf45a",
@@ -866,7 +862,7 @@
         },
         {
           "code": "0xf45e",
-          "name": "file-powerpoint"
+          "name": "file-ppt"
         },
         {
           "code": "0xf45f",

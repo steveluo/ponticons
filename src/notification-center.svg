@@ -2,8 +2,8 @@
 <!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="1024px" height="1024px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
-<path d="M784,512c132.55,0,240-107.45,240-240S916.55,32,784,32S544,139.45,544,272S651.45,512,784,512z M0,829V195
-	C0,119,55,64,131,64h253v64H129c-39,0-65,26-65,65v638c0,39,26,65,65,65h638c39,0,65-26,65-65V640h64v189c0,76-55,131-131,131H131
-	C55,960,0,905,0,829z"/>
+	 width="896px" height="1024px" viewBox="0 0 896 1024" enable-background="new 0 0 896 1024" xml:space="preserve">
+<path d="M704,448c106.04,0,192-85.96,192-192c0-106.04-85.96-192-192-192s-192,85.96-192,192C512,362.04,597.96,448,704,448z
+	 M640,576v191c0,38-27,65-65,65H193c-38,0-65-27-65-65V385c0-38,27-65,65-65h191V192H131C55,192,0,247,0,323v506
+	c0,76,55,131,131,131h506c76,0,131-55,131-131V576H640z"/>
 </svg>
