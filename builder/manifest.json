@@ -339,87 +339,87 @@
       "name": "Arrows",
       "icons": [
         {
-          "code": "0xf250",
+          "code": "0xf200",
           "name": "arrow-up"
         },
         {
-          "code": "0xf251",
+          "code": "0xf201",
           "name": "arrow-down"
         },
         {
-          "code": "0xf252",
+          "code": "0xf202",
           "name": "arrow-left"
         },
         {
-          "code": "0xf253",
+          "code": "0xf203",
           "name": "arrow-right"
         },
         {
-          "code": "0xf254",
+          "code": "0xf204",
           "name": "arrow-small-up"
         },
         {
-          "code": "0xf255",
+          "code": "0xf205",
           "name": "arrow-small-down"
         },
         {
-          "code": "0xf256",
+          "code": "0xf206",
           "name": "arrow-small-left"
         },
         {
-          "code": "0xf257",
+          "code": "0xf207",
           "name": "arrow-small-right"
         },
         {
-          "code": "0xf258",
+          "code": "0xf208",
           "name": "arrow-slim-up"
         },
         {
-          "code": "0xf259",
+          "code": "0xf209",
           "name": "arrow-slim-down"
         },
         {
-          "code": "0xf25a",
+          "code": "0xf20a",
           "name": "arrow-slim-left"
         },
         {
-          "code": "0xf25b",
+          "code": "0xf20b",
           "name": "arrow-slim-right"
         },
         {
-          "code": "0xf25c",
+          "code": "0xf20c",
           "name": "chevron-up"
         },
         {
-          "code": "0xf25d",
+          "code": "0xf20d",
           "name": "chevron-down"
         },
         {
-          "code": "0xf25e",
+          "code": "0xf20e",
           "name": "chevron-left"
         },
         {
-          "code": "0xf25f",
+          "code": "0xf20f",
           "name": "chevron-right"
         },
         {
-          "code": "0xf260",
+          "code": "0xf210",
           "name": "triangle-up"
         },
         {
-          "code": "0xf261",
+          "code": "0xf211",
           "name": "triangle-down"
         },
         {
-          "code": "0xf262",
+          "code": "0xf212",
           "name": "triangle-left"
         },
         {
-          "code": "0xf263",
+          "code": "0xf213",
           "name": "triangle-right"
         },
         {
-          "code": "0xf264",
+          "code": "0xf214",
           "name": "arrow-back"
         }
       ]
@@ -430,83 +430,83 @@
       "name": "Signs",
       "icons": [
         {
-          "code": "0xf300",
+          "code": "0xf250",
           "name": "tick-round"
         },
         {
-          "code": "0xf301",
+          "code": "0xf251",
           "name": "times-round"
         },
         {
-          "code": "0xf302",
+          "code": "0xf252",
           "name": "question-round"
         },
         {
-          "code": "0xf303",
+          "code": "0xf253",
           "name": "plus-round"
         },
         {
-          "code": "0xf304",
+          "code": "0xf254",
           "name": "minus-round"
         },
         {
-          "code": "0xf305",
+          "code": "0xf255",
           "name": "info-round"
         },
         {
-          "code": "0xf306",
+          "code": "0xf256",
           "name": "warning-round"
         },
         {
-          "code": "0xf307",
+          "code": "0xf257",
           "name": "tick-circle"
         },
         {
-          "code": "0xf308",
+          "code": "0xf258",
           "name": "times-circle"
         },
         {
-          "code": "0xf309",
+          "code": "0xf259",
           "name": "question-circle"
         },
         {
-          "code": "0xf30a",
+          "code": "0xf25a",
           "name": "plus-circle"
         },
         {
-          "code": "0xf30b",
+          "code": "0xf25b",
           "name": "minus-circle"
         },
         {
-          "code": "0xf30c",
+          "code": "0xf25c",
           "name": "info-circle"
         },
         {
-          "code": "0xf30d",
+          "code": "0xf25d",
           "name": "warning-circle"
         },
         {
-          "code": "0xf30e",
+          "code": "0xf25e",
           "name": "warning-block"
         },
         {
-          "code": "0xf30f",
+          "code": "0xf25f",
           "name": "warning-block-o"
         },
         {
-          "code": "0xf310",
+          "code": "0xf260",
           "name": "alert"
         },
         {
-          "code": "0xf311",
+          "code": "0xf261",
           "name": "alert-o"
         },
         {
-          "code": "0xf312",
+          "code": "0xf262",
           "name": "plus-square-o"
         },
         {
-          "code": "0xf313",
+          "code": "0xf263",
           "name": "minus-square-o"
         }
       ]
@@ -774,15 +774,15 @@
           "name": "expand"
         },
         {
-          "code": "0xf42d",
+          "code": "0xf42c",
           "name": "collapse"
         },
         {
-          "code": "0xf42f",
+          "code": "0xf42d",
           "name": "fold"
         },
         {
-          "code": "0xf430",
+          "code": "0xf42e",
           "name": "unfold"
         },
         {
@@ -923,6 +923,10 @@
         {
           "code": "0xf48a",
           "name": "folder-removed-o"
+        },
+        {
+          "code": "0xf48b",
+          "name": "folder-renamed-o"
         },
         {
           "code": "0xf490",
