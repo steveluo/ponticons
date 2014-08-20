@@ -28,7 +28,6 @@ f.design_size = 16
 f.em = 1024
 f.ascent = 832
 f.descent = 192
-f.upos = 10
 
 
 manifest_file = open(MANIFEST_PATH, 'r')

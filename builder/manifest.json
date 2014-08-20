@@ -1,7 +1,7 @@
 {
-  "build_hash": "bf6590e907514fe1011d693627563e06",
+  "build_hash": "ca73a7e7a09bdccc4dc7a8350348c0e6",
   "prefix": "fa-",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "name": "ponticons",
   "groups": [
     {
@@ -879,6 +879,10 @@
         {
           "code": "0xf462",
           "name": "file-removed"
+        },
+        {
+          "code": "0xf463",
+          "name": "file-renamed"
         },
         {
           "code": "0xf480",

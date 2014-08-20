@@ -207,6 +207,7 @@
 .#{$ponticons-prefix}file-added:before { content: $ponticon-var-file-added; }
 .#{$ponticons-prefix}file-modified:before { content: $ponticon-var-file-modified; }
 .#{$ponticons-prefix}file-removed:before { content: $ponticon-var-file-removed; }
+.#{$ponticons-prefix}file-renamed:before { content: $ponticon-var-file-renamed; }
 .#{$ponticons-prefix}folder:before { content: $ponticon-var-folder; }
 .#{$ponticons-prefix}folder-link:before { content: $ponticon-var-folder-link; }
 .#{$ponticons-prefix}folder-added:before { content: $ponticon-var-folder-added; }
@@ -218,6 +219,7 @@
 .#{$ponticons-prefix}folder-added-o:before { content: $ponticon-var-folder-added-o; }
 .#{$ponticons-prefix}folder-modified-o:before { content: $ponticon-var-folder-modified-o; }
 .#{$ponticons-prefix}folder-removed-o:before { content: $ponticon-var-folder-removed-o; }
+.#{$ponticons-prefix}folder-renamed-o:before { content: $ponticon-var-folder-renamed-o; }
 .#{$ponticons-prefix}tag:before { content: $ponticon-var-tag; }
 .#{$ponticons-prefix}tag-o:before { content: $ponticon-var-tag-o; }
 .#{$ponticons-prefix}tag-add:before { content: $ponticon-var-tag-add; }

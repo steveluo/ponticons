@@ -204,6 +204,7 @@ file-zip
 file-added
 file-modified
 file-removed
+file-renamed
 folder
 folder-link
 folder-added
@@ -215,6 +216,7 @@ folder-link-o
 folder-added-o
 folder-modified-o
 folder-removed-o
+folder-renamed-o
 tag
 tag-o
 tag-add
