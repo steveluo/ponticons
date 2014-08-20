@@ -931,59 +931,7 @@
         {
           "code": "0xf48b",
           "name": "folder-renamed-o"
-        },
-        {
-          "code": "0xf490",
-          "name": "tag"
-        },
-        {
-          "code": "0xf491",
-          "name": "tag-o"
-        },
-        {
-          "code": "0xf492",
-          "name": "tag-add"
-        },
-        {
-          "code": "0xf493",
-          "name": "tag-remove"
-        },
-        {
-          "code": "0xf494",
-          "name": "tag-alt"
-        },
-        {
-          "code": "0xf495",
-          "name": "tags"
-        },
-        {
-          "code": "0xf496",
-          "name": "comment"
-        },
-        {
-          "code": "0xf497",
-          "name": "comments"
-        },
-        {
-          "code": "0xf498",
-          "name": "comment-add"
-        },
-        {
-          "code": "0xf499",
-          "name": "eye-open"
-        },
-        {
-          "code": "0xf49a",
-          "name": "eye-plus"
-        },
-        {
-          "code": "0xf49b",
-          "name": "eye-times"
-        },
-        {
-          "code": "0xf49c",
-          "name": "eye-slash"
-        }
+        }      
       ]
     },
 
@@ -1141,7 +1089,60 @@
         {
           "code": "0xf554",
           "name": "issue-closed"
+        },
+        {
+          "code": "0xf560",
+          "name": "tag"
+        },
+        {
+          "code": "0xf561",
+          "name": "tag-o"
+        },
+        {
+          "code": "0xf562",
+          "name": "tag-add"
+        },
+        {
+          "code": "0xf563",
+          "name": "tag-remove"
+        },
+        {
+          "code": "0xf564",
+          "name": "tag-alt"
+        },
+        {
+          "code": "0xf565",
+          "name": "tags"
+        },
+        {
+          "code": "0xf566",
+          "name": "comment"
+        },
+        {
+          "code": "0xf567",
+          "name": "comments"
+        },
+        {
+          "code": "0xf568",
+          "name": "comment-add"
+        },
+        {
+          "code": "0xf569",
+          "name": "eye-open"
+        },
+        {
+          "code": "0xf56a",
+          "name": "eye-plus"
+        },
+        {
+          "code": "0xf56b",
+          "name": "eye-times"
+        },
+        {
+          "code": "0xf56c",
+          "name": "eye-slash"
         }
+
       ]
     },
 

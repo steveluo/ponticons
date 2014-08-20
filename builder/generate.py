@@ -12,7 +12,7 @@ LESS_FOLDER_PATH = os.path.join(ROOT_PATH, 'less')
 
 
 def main():
-  generate_font_files()
+#  generate_font_files()
 
   data = get_build_data()
 
