@@ -2,8 +2,8 @@
 <!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="896px" height="1024px" viewBox="0 0 896 1024" enable-background="new 0 0 896 1024" xml:space="preserve">
-<path d="M339,877L19,557C6,545,0,530,0,512s6-33,19-45l320-320c12-13,27-19,45-19s33,6,45,19c13,10,19,25,19,45s-6,35-19,45L219,448
-	h613c17,0,33,6,46,18c12,13,18,29,18,46c0,36-28,64-64,64H219l210,211c13,12,19,27,19,45c0,36-28,64-64,64C366,896,351,890,339,877z
-	"/>
+	 width="768px" height="1024px" viewBox="0 0 768 1024" enable-background="new 0 0 768 1024" xml:space="preserve">
+<path d="M429,877c-12,13-27,19-45,19s-33-6-45-19L19,557C6,545,0,530,0,512s6-33,19-45l320-320c12-13,27-19,45-19s33,6,45,19
+	c13,9,19,24,19,45s-6,36-19,45L219,448h485c36,0,64,28,64,64c0,19-6,34-19,45c-11,13-26,19-45,19H219l210,211c13,12,19,27,19,45
+	S442,865,429,877z"/>
 </svg>
