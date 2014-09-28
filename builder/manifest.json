@@ -1296,6 +1296,10 @@
         {
           "code": "0xf65b",
           "name": "bars-three"
+        },
+        {
+           "code": "0xf660",
+           "name": "grip"
         }
       ]
     }
