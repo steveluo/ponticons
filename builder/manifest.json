@@ -1,7 +1,7 @@
 {
-  "build_hash": "57831e47985daa7882037c81a03bebd6",
+  "build_hash": "7616f78e703e28154b9745df4cecab29",
   "prefix": "fa-",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "name": "ponticons",
   "groups": [
     {
@@ -331,6 +331,18 @@
         {
           "code": "0xf183",
           "name": "os-android"
+        },
+        {
+          "code": "0xf190",
+          "name": "radio"
+        },
+        {
+          "code": "0xf191",
+          "name": "gate"
+        },
+        {
+          "code": "0xf192",
+          "name": "door"
         }
       ]
     },

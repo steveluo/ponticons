@@ -79,6 +79,9 @@ os-apple
 os-linux
 os-windows
 os-android
+radio
+gate
+door
 arrow-up
 arrow-down
 arrow-left
