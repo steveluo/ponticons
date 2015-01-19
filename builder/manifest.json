@@ -1,7 +1,7 @@
 {
-  "build_hash": "193377fa56bdf733ebecb1c0103ed5b2",
+  "build_hash": "492d7e660c72ee811ecc694057588382",
   "prefix": "ponticon-",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "name": "ponticons",
   "groups": [
     {
@@ -39,6 +39,10 @@
         {
           "code": "0xf116",
           "name": "gatekeeper"
+        },
+        {
+          "code": "0xf117",
+          "name": "book"
         }
       ]
     },
