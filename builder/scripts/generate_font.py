@@ -24,10 +24,10 @@ m = md5.new()
 
 f = fontforge.font()
 f.encoding = 'UnicodeFull'
-f.design_size = 16
-f.em = 1024
-f.ascent = 832
-f.descent = 192
+f.design_size = 14
+f.em = 1792
+f.ascent = 1536
+f.descent = 256
 
 
 manifest_file = open(MANIFEST_PATH, 'r')

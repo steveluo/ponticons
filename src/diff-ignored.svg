@@ -1,3 +1,9 @@
-<svg height="1024" width="896" xmlns="http://www.w3.org/2000/svg">
-  <path d="M832 64h-768c-32 0-64 32-64 64v768c0 32 32 64 64 64h768c32 0 64-32 64-64v-768c0-32-32-64-64-64z m-64 736c0 16-17 32-32 32h-576c-18 0-32-12-32-32v-576c0-16 16-32 32-32h576c15 0 32 16 32 32v576z m-512-194v98h98l286-286v-98h-98l-286 286z" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1792px" height="1792px" viewBox="0 0 1792 1792" enable-background="new 0 0 1792 1792" xml:space="preserve">
+<path d="M320,256h1152c42,0,64,22,64,64v1152c0,42-22,64-64,64H320c-42,0-64-22-64-64V320C256,278,278,256,320,256z M0,128v1536
+	c0,83,45,128,128,128h1536c83,0,128-45,128-128V128c0-83-45-128-128-128H128C45,0,0,45,0,128z M1024,512l-512,512v256h256l512-512
+	V512H1024z"/>
 </svg>

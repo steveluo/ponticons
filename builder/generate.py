@@ -43,7 +43,7 @@ def rename_svg_glyph_names(data):
   for ionicon in data['icons']:
     # uniF2CA
     org_name = 'uni%s' % (ionicon['code'].replace('0x', '').upper())
-    ion_name = 'fa-%s' % (ionicon['name'])
+    ion_name = 'ponticon-%s' % (ionicon['name'])
     svg_text = svg_text.replace(org_name, ion_name)
 
   svg_file.write(svg_text)
@@ -89,7 +89,7 @@ def generate_less(data):
   d.append( ',\n'.join(group) )
 
   d.append('{')
-  d.append('  &:extend(.fa);')
+  d.append('  &:extend(.ponticon);')
   d.append('}')
 
   for ionicon in data['icons']:
