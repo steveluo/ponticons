@@ -78,27 +78,27 @@ def generate_less(data):
   f.write( '\n'.join(d) )
   f.close()
 
-  d = []
-  d.append('// Ponticons Icons')
-  d.append('// --------------------------\n')
+#  d = []
+#  d.append('// Ponticons Icons')
+#  d.append('// --------------------------\n')
 
-  group = [ '.%s' % (data['name'].lower()) ]
-  for ionicon in data['icons']:
-    group.append('.@{ponticons-prefix}%s:before' % (ionicon['name']) )
-
-  d.append( ',\n'.join(group) )
-
-  d.append('{')
-  d.append('  &:extend(.ponticon);')
-  d.append('}')
-
-  for ionicon in data['icons']:
-    chr_code = ionicon['code'].replace('0x', '\\')
-    d.append('.@{ponticons-prefix}%s:before { content: @ponticon-var-%s; }' % (ionicon['name'], ionicon['name']) )
-
-  f = open(icons_file_path, 'w')
-  f.write( '\n'.join(d) )
-  f.close()
+#  group = [ '.%s' % (data['name'].lower()) ]
+#  for ionicon in data['icons']:
+#    group.append('.@{ponticons-prefix}%s:before' % (ionicon['name']) )
+#
+#  d.append( ',\n'.join(group) )
+#
+#  d.append('{')
+#  d.append('  &:extend(.ponticon);')
+#  d.append('}')
+#
+#  for ionicon in data['icons']:
+#    chr_code = ionicon['code'].replace('0x', '\\')
+#    d.append('.@{ponticons-prefix}%s:before { content: @ponticon-var-%s; }' % (ionicon['name'], ionicon['name']) )
+#
+#  f = open(icons_file_path, 'w')
+#  f.write( '\n'.join(d) )
+#  f.close()
 
 
 def generate_scss(data):
