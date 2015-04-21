@@ -25,6 +25,24 @@
 
 .ponticon-files:before { content: "\f119"; }
 
+.ponticon-book-open:before { content: "\f11a"; }
+
+.ponticon-compass:before { content: "\f11b"; }
+
+.ponticon-globe:before { content: "\f11c"; }
+
+.ponticon-warning:before { content: "\f11d"; }
+
+.ponticon-issue-opened:before { content: "\f120"; }
+
+.ponticon-issue-reopened:before { content: "\f121"; }
+
+.ponticon-issue-closed:before { content: "\f122"; }
+
+.ponticon-comment:before { content: "\f130"; }
+
+.ponticon-comments:before { content: "\f131"; }
+
 .ponticon-repo:before { content: "\f200"; }
 
 .ponticon-repo-add:before { content: "\f201"; }

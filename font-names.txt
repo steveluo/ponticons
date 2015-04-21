@@ -10,6 +10,15 @@ gatekeeper
 book
 book-alt
 files
+book-open
+compass
+globe
+warning
+issue-opened
+issue-reopened
+issue-closed
+comment
+comments
 repo
 repo-add
 repo-remove

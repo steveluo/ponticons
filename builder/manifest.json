@@ -1,5 +1,5 @@
 {
-  "build_hash": "35d0f755b8d69ffc535ef8cde77faf94",
+  "build_hash": "ae8a28524491f70fc8a03c566a391e2b",
   "prefix": "ponticon-",
   "version": "1.1.4",
   "name": "ponticons",
@@ -55,9 +55,46 @@
         {
           "code": "0xf119",
           "name": "files"
+        },
+        {
+          "code": "0xf11a",
+          "name": "book-open"
+        },
+        {
+          "code": "0xf11b",
+          "name": "compass"
+        },
+        {
+          "code": "0xf11c",
+          "name": "globe"
+        },
+        {
+          "code": "0xf11d",
+          "name": "warning"
+        },
+        {
+          "code": "0xf120",
+          "name": "issue-opened"
+        },
+        {
+          "code": "0xf121",
+          "name": "issue-reopened"
+        },
+        {
+          "code": "0xf122",
+          "name": "issue-closed"
+        },
+        {
+          "code": "0xf130",
+          "name": "comment"
+        },
+        {
+          "code": "0xf131",
+          "name": "comments"
         }
       ]
     },
+
 
     {
       "id": "git",
