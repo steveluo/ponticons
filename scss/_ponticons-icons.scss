@@ -1,7 +1,8 @@
 // PontIcons Icons
 // --------------------------
 
-.#{$ponticons-prefix}gitplex-logo:before { content: $ponticon-var-gitplex-logo; }
+.#{$ponticons-prefix}logo-gitplex:before { content: $ponticon-var-logo-gitplex; }
+.#{$ponticons-prefix}logo-starred:before { content: $ponticon-var-logo-starred; }
 .#{$ponticons-prefix}markdown:before { content: $ponticon-var-markdown; }
 .#{$ponticons-prefix}checklist:before { content: $ponticon-var-checklist; }
 .#{$ponticons-prefix}milestone:before { content: $ponticon-var-milestone; }
@@ -10,6 +11,8 @@
 .#{$ponticons-prefix}file-symbol-link:before { content: $ponticon-var-file-symbol-link; }
 .#{$ponticons-prefix}gatekeeper:before { content: $ponticon-var-gatekeeper; }
 .#{$ponticons-prefix}book:before { content: $ponticon-var-book; }
+.#{$ponticons-prefix}book-alt:before { content: $ponticon-var-book-alt; }
+.#{$ponticons-prefix}files:before { content: $ponticon-var-files; }
 .#{$ponticons-prefix}repo:before { content: $ponticon-var-repo; }
 .#{$ponticons-prefix}repo-add:before { content: $ponticon-var-repo-add; }
 .#{$ponticons-prefix}repo-remove:before { content: $ponticon-var-repo-remove; }

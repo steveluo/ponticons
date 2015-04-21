@@ -1,4 +1,5 @@
-gitplex-logo
+logo-gitplex
+logo-starred
 markdown
 checklist
 milestone
@@ -7,6 +8,8 @@ folder-o
 file-symbol-link
 gatekeeper
 book
+book-alt
+files
 repo
 repo-add
 repo-remove

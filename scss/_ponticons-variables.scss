@@ -3,10 +3,11 @@
 
 $ponticons-font-path: "../fonts" !default;
 $ponticons-font-family: "ponticons" !default;
-$ponticons-version: "1.0.19" !default;
+$ponticons-version: "1.1.2" !default;
 $ponticons-prefix: ponticon- !default;
 
-$ponticon-var-gitplex-logo: "\f100";
+$ponticon-var-logo-gitplex: "\f100";
+$ponticon-var-logo-starred: "\f101";
 $ponticon-var-markdown: "\f110";
 $ponticon-var-checklist: "\f111";
 $ponticon-var-milestone: "\f112";
@@ -15,6 +16,8 @@ $ponticon-var-folder-o: "\f114";
 $ponticon-var-file-symbol-link: "\f115";
 $ponticon-var-gatekeeper: "\f116";
 $ponticon-var-book: "\f117";
+$ponticon-var-book-alt: "\f118";
+$ponticon-var-files: "\f119";
 $ponticon-var-repo: "\f200";
 $ponticon-var-repo-add: "\f201";
 $ponticon-var-repo-remove: "\f202";

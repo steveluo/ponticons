@@ -1,7 +1,7 @@
 {
-  "build_hash": "492d7e660c72ee811ecc694057588382",
+  "build_hash": "fd94bde4a1c9fa7832aaae1942751fad",
   "prefix": "ponticon-",
-  "version": "1.0.19",
+  "version": "1.1.2",
   "name": "ponticons",
   "groups": [
     {
@@ -10,7 +10,11 @@
       "icons": [
         {
           "code": "0xf100",
-          "name": "gitplex-logo"
+          "name": "logo-gitplex"
+        },
+        {
+          "code": "0xf101",
+          "name": "logo-teamlink"
         },
         {
           "code": "0xf110",
@@ -43,13 +47,21 @@
         {
           "code": "0xf117",
           "name": "book"
+        },
+        {
+          "code": "0xf118",
+          "name": "book-alt"
+        },
+        {
+          "code": "0xf119",
+          "name": "files"
         }
       ]
     },
 
     {
-      "id": "repo",
-      "name": "Repository",
+      "id": "git",
+      "name": "Git Related",
       "icons": [
         {
           "code": "0xf200",
