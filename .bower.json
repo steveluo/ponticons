@@ -1,0 +1,17 @@
+{
+    "name": "ponticon",
+    "version": "1.2.0",
+    "main": [
+	    "./css/ponticons.css",
+	    "./fonts/*"
+	  ],
+	  "ignore": [
+	    "*/.*",
+	    "*.json",
+	    "src",
+	    "*.yml",
+	    "Gemfile",
+	    "Gemfile.lock",
+	    "*.md"
+	  ]
+}
