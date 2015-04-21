@@ -1,7 +1,7 @@
 {
-  "build_hash": "39d3ddc03f6084b61613ae9cfdd0d9fc",
+  "build_hash": "c2c63930749f2a0406cb9399c4ea8cae",
   "prefix": "ponticon-",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "name": "ponticons",
   "groups": [
     {
@@ -29,18 +29,6 @@
           "name": "milestone"
         },
         {
-          "code": "0xf113",
-          "name": "folder"
-        },
-        {
-          "code": "0xf114",
-          "name": "folder-o"
-        },
-        {
-          "code": "0xf115",
-          "name": "file-symbol-link"
-        },
-        {
           "code": "0xf116",
           "name": "gatekeeper"
         },
@@ -51,10 +39,6 @@
         {
           "code": "0xf118",
           "name": "book-alt"
-        },
-        {
-          "code": "0xf119",
-          "name": "files"
         },
         {
           "code": "0xf11a",
@@ -95,6 +79,40 @@
       ]
     },
 
+    {
+    	"id": "file",
+    	"name": "File related",
+    	"icons": [
+    		{
+          "code": "0xf180",
+          "name": "folder"
+        },
+        {
+          "code": "0xf181",
+          "name": "folder-o"
+        },
+        {
+          "code": "0xf182",
+          "name": "files"
+        },
+        {
+          "code": "0xf183",
+          "name": "file-symbol-link"
+        },
+    		{
+    			"code": "0xf184",
+    			"name": "file-text"
+    		},
+    		{
+    			"code": "0xf185",
+    			"name": "file-code"
+    		},
+    		{
+    			"code": "0xf186",
+    			"name": "file-zip"
+    		}
+    	]
+    },
 
     {
       "id": "git",

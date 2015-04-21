@@ -1,4 +1,4 @@
-@font-face { font-family: "ponticons"; src: url("../fonts/ponticons.eot?v=1.2.1"); src: url("../fonts/ponticons.eot?v=1.2.1#iefix") format("embedded-opentype"), url("../fonts/ponticons.ttf?v=1.2.1") format("truetype"), url("../fonts/ponticons.woff?v=1.2.1") format("woff"), url("../fonts/ponticons.svg?v=1.2.1#ponticons") format("svg"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "ponticons"; src: url("../fonts/ponticons.eot?v=1.2.3"); src: url("../fonts/ponticons.eot?v=1.2.3#iefix") format("embedded-opentype"), url("../fonts/ponticons.ttf?v=1.2.3") format("truetype"), url("../fonts/ponticons.woff?v=1.2.3") format("woff"), url("../fonts/ponticons.svg?v=1.2.3#ponticons") format("svg"); font-weight: normal; font-style: normal; }
 .ponticon { font: normal normal 14px "ponticons"; display: inline-block; speak: none; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
 
 .ponticon-logo-gitplex:before { content: "\f100"; }
@@ -11,19 +11,11 @@
 
 .ponticon-milestone:before { content: "\f112"; }
 
-.ponticon-folder:before { content: "\f113"; }
-
-.ponticon-folder-o:before { content: "\f114"; }
-
-.ponticon-file-symbol-link:before { content: "\f115"; }
-
 .ponticon-gatekeeper:before { content: "\f116"; }
 
 .ponticon-book:before { content: "\f117"; }
 
 .ponticon-book-alt:before { content: "\f118"; }
-
-.ponticon-files:before { content: "\f119"; }
 
 .ponticon-book-open:before { content: "\f11a"; }
 
@@ -42,6 +34,20 @@
 .ponticon-comment:before { content: "\f130"; }
 
 .ponticon-comments:before { content: "\f131"; }
+
+.ponticon-folder:before { content: "\f180"; }
+
+.ponticon-folder-o:before { content: "\f181"; }
+
+.ponticon-files:before { content: "\f182"; }
+
+.ponticon-file-symbol-link:before { content: "\f183"; }
+
+.ponticon-file-text:before { content: "\f184"; }
+
+.ponticon-file-code:before { content: "\f185"; }
+
+.ponticon-file-zip:before { content: "\f186"; }
 
 .ponticon-repo:before { content: "\f200"; }
 

@@ -3,13 +3,9 @@ logo-teamlink
 markdown
 checklist
 milestone
-folder
-folder-o
-file-symbol-link
 gatekeeper
 book
 book-alt
-files
 book-open
 compass
 globe
@@ -19,6 +15,13 @@ issue-reopened
 issue-closed
 comment
 comments
+folder
+folder-o
+files
+file-symbol-link
+file-text
+file-code
+file-zip
 repo
 repo-add
 repo-remove

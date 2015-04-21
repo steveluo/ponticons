@@ -3,7 +3,7 @@
 
 $ponticons-font-path: "../fonts" !default;
 $ponticons-font-family: "ponticons" !default;
-$ponticons-version: "1.2.1" !default;
+$ponticons-version: "1.2.3" !default;
 $ponticons-prefix: ponticon- !default;
 
 $ponticon-var-logo-gitplex: "\f100";
@@ -11,13 +11,9 @@ $ponticon-var-logo-teamlink: "\f101";
 $ponticon-var-markdown: "\f110";
 $ponticon-var-checklist: "\f111";
 $ponticon-var-milestone: "\f112";
-$ponticon-var-folder: "\f113";
-$ponticon-var-folder-o: "\f114";
-$ponticon-var-file-symbol-link: "\f115";
 $ponticon-var-gatekeeper: "\f116";
 $ponticon-var-book: "\f117";
 $ponticon-var-book-alt: "\f118";
-$ponticon-var-files: "\f119";
 $ponticon-var-book-open: "\f11a";
 $ponticon-var-compass: "\f11b";
 $ponticon-var-globe: "\f11c";
@@ -27,6 +23,13 @@ $ponticon-var-issue-reopened: "\f121";
 $ponticon-var-issue-closed: "\f122";
 $ponticon-var-comment: "\f130";
 $ponticon-var-comments: "\f131";
+$ponticon-var-folder: "\f180";
+$ponticon-var-folder-o: "\f181";
+$ponticon-var-files: "\f182";
+$ponticon-var-file-symbol-link: "\f183";
+$ponticon-var-file-text: "\f184";
+$ponticon-var-file-code: "\f185";
+$ponticon-var-file-zip: "\f186";
 $ponticon-var-repo: "\f200";
 $ponticon-var-repo-add: "\f201";
 $ponticon-var-repo-remove: "\f202";
