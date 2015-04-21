@@ -1,5 +1,5 @@
 logo-gitplex
-logo-starred
+logo-teamlink
 markdown
 checklist
 milestone

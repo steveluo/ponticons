@@ -82,15 +82,15 @@ def generate_less(data):
   d.append('// Ponticons Icons')
   d.append('// --------------------------\n')
 
-  group = [ '.%s' % (data['name'].lower()) ]
-  for ionicon in data['icons']:
-    group.append('.@{ponticons-prefix}%s:before' % (ionicon['name']) )
-
-  d.append( ',\n'.join(group) )
-
-  d.append('{')
-  d.append('  &:extend(.ponticon);')
-  d.append('}')
+#  group = [ '.%s' % (data['name'].lower()) ]
+#  for ionicon in data['icons']:
+#    group.append('.@{ponticons-prefix}%s:before' % (ionicon['name']) )
+#
+#  d.append( ',\n'.join(group) )
+#
+#  d.append('{')
+#  d.append('  &:extend(.ponticon);')
+#  d.append('}')
 
   for ionicon in data['icons']:
     chr_code = ionicon['code'].replace('0x', '\\')
