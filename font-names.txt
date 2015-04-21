@@ -32,6 +32,7 @@ repo-unlock
 repo-pull
 repo-push
 repo-sync
+repo-blank
 diff-added
 diff-removed
 diff-modified

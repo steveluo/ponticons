@@ -1,7 +1,7 @@
 {
   "build_hash": "c2c63930749f2a0406cb9399c4ea8cae",
   "prefix": "ponticon-",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "name": "ponticons",
   "groups": [
     {
@@ -157,6 +157,10 @@
         {
           "code": "0xf209",
           "name": "repo-sync"
+        },
+        {
+          "code": "0xf20a",
+          "name": "repo-blank"
         },
         {
           "code": "0xf210",
