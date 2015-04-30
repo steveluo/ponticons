@@ -1,0 +1,19 @@
+{
+  "name": "ponticons",
+  "repo": "steveluo/ponticons",
+  "description": "PMEase icons",
+  "version": "1.2.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "SIL, MIT, CC BY 3.0",
+  "styles": [
+      "css/ponticons.css"
+    ],
+  "fonts": [
+      "fonts/ponticons.eot",
+      "fonts/ponticons.svg",
+      "fonts/ponticons.ttf",
+      "fonts/ponticons.woff"
+    ]
+}
