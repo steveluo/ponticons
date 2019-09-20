@@ -1,11 +1,11 @@
 Ponticons is the icon font for PMEase. Most of the icons are based on below famous icon set:
 
-* [Octicons] (https://github.com/github/octicons)
-* [Fontawesome] (http://fontawesome.io)
-* [Fontello] (http://fontello.com)
-* [Ionicons] (http://ionicons.com)
+* [Octicons](https://github.com/github/octicons)
+* [Fontawesome](http://fontawesome.io)
+* [Fontello](http://fontello.com)
+* [Ionicons](http://ionicons.com)
 
-# Add Icons 
+# Add Icons
 
 Add svg file to src directory, then update `builder/manifest.json`.
 

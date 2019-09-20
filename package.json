@@ -1,0 +1,22 @@
+{
+  "name": "ponticons",
+  "version": "1.0.0",
+  "description": "Ponticons is the icon font for PMEase. ",
+  "main": "cheatsheet.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveluo/ponticons.git"
+  },
+  "keywords": [
+    "fonticon"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steveluo/ponticons/issues"
+  },
+  "homepage": "https://github.com/steveluo/ponticons#readme"
+}
